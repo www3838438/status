@@ -28,11 +28,13 @@ a:active {
   margin-bottom: 40px;
   padding: 16px 0 24px 0;
   border-bottom: 2px solid #F7F7F8;
+  display: flex;
+  align-items: center;
 }
 
 .logo {
   position: relative;
-  top: 4px;
+  /*top: 4px;*/
   height: 24px;
   margin-right: 8px;
 }
@@ -45,11 +47,15 @@ a:active {
 }
 
 .title a {
-  color: #202020;
+  color: #27ae60;
 }
 .title a:hover,
 .title a:focus, {
   text-decoration: none;
+}
+
+.twitter-follow-button {
+  margin-left: auto;
 }
 
 .right-links {

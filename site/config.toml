@@ -1,12 +1,12 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "StatusKit"
+title = "Graphcool Status"
 
 [permalinks]
   incidents = "/incidents/:year/:month/:day/:slug/"
 
 [params]
-  defaultLogo = "https://www.netlify.com/img/press/logos/logomark.svg"
+  defaultLogo = "/images/logo.svg"
   faviconsPath = "/images/favicon/"
 
 # List of systems monitored in this status page.
@@ -14,4 +14,14 @@ title = "StatusKit"
 # you open or update an incident.
 # Example:
 # systems = ["API", "CDN", "DNS", "Site delivery"]
-systems = []
+systems = [
+  "Simple API",
+  "Simple Subscriptions API",
+  "Relay API",
+  "System API",
+  "Files API",
+  "Images API",
+  "Function Engine",
+  "Console",
+  "Homepage",
+]

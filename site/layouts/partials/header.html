@@ -14,18 +14,20 @@
     <title>{{ $title }}</title>
     <link rel="stylesheet" href="/css/main.css"/>
     {{ if $major }}
-      <link rel="icon" href="{{ absURL $favicons }}favicon-danger.ico">
+      <link rel="icon" href="{{ absURL $favicons }}danger.png">
     {{ else if $active }}
-      <link rel="icon" href="{{ absURL $favicons }}favicon-warning.ico">
+      <link rel="icon" href="{{ absURL $favicons }}warning.png">
     {{ else }}
-      <link rel="icon" href="{{ absURL $favicons }}favicon-ok.ico">
+      <link rel="icon" href="{{ absURL $favicons }}ok.png">
     {{ end }}
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </head>
   <body>
     <div class="gangsta-wrap">
       <div class="header">
         <img src="{{ $logo }}" class="logo"/>
         <span class="title"><a href="/">{{ $title }}</a></span>
+        <a class="twitter-follow-button" href="https://twitter.com/GraphcoolStatus" data-show-count=false>Follow @GraphcoolStatus</a>
         <div class="right-links">
           {{ with $resources }}
             <a href="{{ . }}" class="button resources-link">Resources</a>
