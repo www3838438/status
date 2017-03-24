@@ -1,6 +1,6 @@
 +++
 title = "Simple API Downtime - Update"
-severity = "degraded-performance"
+severity = "major-outage"
 affectedsystems = [
   "Simple API",
 ]
