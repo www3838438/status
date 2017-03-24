@@ -4,7 +4,7 @@ severity = "major-outage"
 affectedsystems = [
   "Simple API",
 ]
-resolved = false
+resolved = true
 date = "2017-03-24T2:00:00+01:00"
 
 +++
