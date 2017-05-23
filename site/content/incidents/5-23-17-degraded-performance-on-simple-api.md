@@ -1,4 +1,5 @@
-+++ title = "Degraded Performance on Simple API"
++++
+title = "Degraded Performance on Simple API"
 severity = "degraded-performance"
 affectedsystems = [
   "Simple API",
