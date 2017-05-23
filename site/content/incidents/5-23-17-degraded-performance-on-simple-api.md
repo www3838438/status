@@ -1,4 +1,7 @@
-Degraded Performance on Simple API
++++ title = "Degraded Performance on Simple API" severity = "partial-outage" affectedsystems = [ "Simple API", ] resolved = true date = "2017-05-23T2:00:00+01:00"
++++
+
+
 
 # What Happened
 
