@@ -1,4 +1,4 @@
-+++ title = "Degraded Performance on Simple API" severity = "partial-outage" affectedsystems = [ "Simple API", ] resolved = true date = "2017-05-23T2:00:00+01:00"
++++ title = "Degraded Performance on Simple API" severity = "degraded-performance" affectedsystems = [ "Simple API", ] resolved = true date = "2017-05-23T2:00:00+01:00"
 +++
 
 
