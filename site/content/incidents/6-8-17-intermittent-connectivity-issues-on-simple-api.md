@@ -5,7 +5,7 @@ affectedsystems = [
   "Simple API",
 ]
 resolved = true
-date = "2017-06-8T02:00:00+01:00"
+date = "2017-06-08T02:00:00+01:00"
 
 +++
 
