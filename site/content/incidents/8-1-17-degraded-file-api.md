@@ -16,3 +16,9 @@ date = "2017-08-03T14:30:00+02:00"
 +++
 
 All APIs are experiencing degraded performance, also affecting the usage of the Console. We are currently investigating the underlying issue.
+
+## Update
+
+Friday afternoon we identified the issue and deployed a temporary solution that greatly reduces the issue, but doesn't address the root cause. We will work on addressing the root cause over the weekend and provide a new update with more details when the final fix is deployed.
+
+At this time the Console is fully operational and virtually all queries against all APIs perform as expected.
