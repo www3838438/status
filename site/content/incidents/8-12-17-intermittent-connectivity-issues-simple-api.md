@@ -5,10 +5,10 @@ affectedsystems = [
   "Simple API",
 ]
 resolved = true
-date = "2017-08-11T15:30:00+02:00"
+date = "2017-08-11T14:15:00+02:00"
 
 +++
 
 # Intermittent Connectivity Issues
 
-Starting 15:30 CEST there was a period of 45 minutes of intermittent connectivity issues in the Simple API in the eu-west-1 region.
+Starting 14:15 CEST there was a period of 2 hours of intermittent connectivity issues in the Simple API in the eu-west-1 region.
