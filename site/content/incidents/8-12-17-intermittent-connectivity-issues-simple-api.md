@@ -4,11 +4,11 @@ severity = "degraded-performance"
 affectedsystems = [
   "Simple API",
 ]
-resolved = false
+resolved = true
 date = "2017-08-11T15:30:00+02:00"
 
 +++
 
 # Intermittent Connectivity Issues
 
-We are currently investigating intermittent connectivity issues in the Simple API in the eu-west-1 region.
+Starting 15:30 CEST there was a period of 45 minutes of intermittent connectivity issues in the Simple API in the eu-west-1 region.
