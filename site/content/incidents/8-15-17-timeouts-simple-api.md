@@ -9,6 +9,6 @@ date = "2017-08-15T10:30:00+02:00"
 
 +++
 
-# Intermittent Timeouts in the Simple API (EU Region)
+**Investigating:** We're investigating intermittent timeouts for queries to the Simple API in the eu-west-1 region.
 
-Starting 10:30 CEST, the Simple API in the eu-west-1 region experienced intermittent timeouts for queries. This is now resolved.
+**Resolved:** We identified performance issues and resolved them.
