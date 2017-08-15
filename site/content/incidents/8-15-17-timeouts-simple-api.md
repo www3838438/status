@@ -1,14 +1,14 @@
 +++
-title = "Some Queries Timing Out in the Simple API"
+title = "Intermittent Timeouts in the Simple API (EU Region)"
 severity = "degraded-performance"
 affectedsystems = [
   "Simple API",
 ]
-resolved = false
+resolved = true
 date = "2017-08-15T10:30:00+02:00"
 
 +++
 
-# Some Queries Timing Out
+# Intermittent Timeouts in the Simple API (EU Region)
 
-Some queries to the Simple API in the EU Region are timing out intermittently. We are currently investigating the issue.
+Starting 10:30 CEST, there was a period of 2.5 hours of intermittent timeouts for queries to the Simple API in the eu-west-1 region.
