@@ -1,5 +1,5 @@
 +++
-title = "Intermittent Connectivity Issues in the Simple API (EU-WEST-1)"
+title = "Some Queries Timing Out in the Simple API"
 severity = "degraded-performance"
 affectedsystems = [
   "Simple API",
@@ -9,6 +9,6 @@ date = "2017-08-15T10:30:00+02:00"
 
 +++
 
-# Intermittent Connectivity Issues
+# Some Queries Timing Out
 
 Some queries to the Simple API in the EU Region are timing out intermittently. We are currently investigating the issue.
