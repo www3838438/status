@@ -1,5 +1,5 @@
 +++
-title = "Intermittent Connectivity Issues in the Simple API (EU-WEST-1)"
+title = "Timeout for some queries to the Simple API (EU-WEST-1)"
 severity = "degraded-performance"
 affectedsystems = [
   "Simple API",
