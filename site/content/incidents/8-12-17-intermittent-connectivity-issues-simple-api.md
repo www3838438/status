@@ -11,4 +11,4 @@ date = "2017-08-12T14:15:00+02:00"
 
 **Investigating:** The Simple API in the eu-west-1 region is experiencing intermittent connectivity issues.
 
-**Resolved:** The connectivity issues could have been identified and resolved.
+**Resolved:** The connectivity issues have been identified and resolved.
