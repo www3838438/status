@@ -5,7 +5,7 @@ affectedsystems = [
   "Console",
 ]
 resolved = true
-date = "2017-08-31T16:30:00:00+02:00"
+date = "2017-08-31T16:30:00+02:00"
 
 +++
 
