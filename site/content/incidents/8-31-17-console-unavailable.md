@@ -1,5 +1,5 @@
 +++
-title = "Degraded Performance"
+title = "Console Unavailable for some projects"
 severity = "degraded-performance"
 affectedsystems = [
   "Console",
