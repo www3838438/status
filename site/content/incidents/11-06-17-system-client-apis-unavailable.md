@@ -1,6 +1,6 @@
 +++
 title = "System and Client APIs unavailable"
-severity = "Major outage"
+severity = "major-outage"
 affectedsystems = [
   "Simple API",
   "Simple Subscriptions API",
