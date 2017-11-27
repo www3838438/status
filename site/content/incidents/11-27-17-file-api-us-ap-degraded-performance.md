@@ -5,7 +5,7 @@ affectedsystems = [
   "Files API",
   "Images API"
 ]
-resolved = false
+resolved = true
 date = "2017-11-06T09:30:00+01:00"
 
 +++
