@@ -6,8 +6,10 @@ affectedsystems = [
   "Images API"
 ]
 resolved = true
-date = "2017-11-06T09:30:00+01:00"
+date = "2017-11-27T09:30:00+01:00"
 
 +++
 
 **Investigating:** We are currently investigating failing file uploads to some projects in the AP and US region.
+
+**Resolved:** The File APIs in AP and US region are fully operational again.
