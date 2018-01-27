@@ -1,5 +1,5 @@
 +++
-title = "Impaired Functions Deployment"
+title = "Impaired Function Execution"
 severity = "degraded-performance"
 affectedsystems = [
   "Function Engine",
