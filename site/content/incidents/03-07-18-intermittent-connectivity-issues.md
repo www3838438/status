@@ -4,7 +4,7 @@ severity = "degraded-performance"
 affectedsystems = [
   "Simple API",
 ]
-resolved = true
+resolved = false
 date = "2018-03-07T20:00:00+01:00"
 
 +++
